@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\krystel.menot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\krystel.menot\\.nuget\\packages"
+    ]
+  }
+}
